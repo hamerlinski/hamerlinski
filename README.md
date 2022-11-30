@@ -1,0 +1,5 @@
+- 👋🏻 Hi, I’m @hamerlinski, which is pronounced: [ˈhæmə liːn skiː].
+- 🗣️ Pronouns: hi/him/his.
+- 🧑🏻‍💻 Currently, I'm a Devops Engineeer at Dotmatics. Previously: Pearson, BAE AI.
+- ❤️ I’m interested in cybersecurity and cryptography.
+- 💭 _"Anything not saved will be lost."_ - Nintendo.
